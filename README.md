@@ -1,8 +1,8 @@
 <div align="center">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRmcHM0am13OTFidGE5cWpleXM5czhyYjJ1azV2czF3dnVwc2swdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jOQ91yKFFdSgu7HZqh/giphy.gif" alt="Banner">
 </div>
-<h1 align="center">hi, i'm <a  href="https://www.cathy.ngo">cathy</a></h1>
-<h3 align="center">welcome to my github</h3>
+<h1 align="center">hi, i'm <a  href="https://www.cathy.ngo">cathy</a> ♡</h1>
+<h3 align="center">it's nice to meet you!</h3>
 <pre align="center">
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣦⣤⣄⡀⠀⠀⠀⠀⢀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -30,4 +30,4 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣶⣤⣀⣦⣴⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 </pre>
-<p align="center">⋆˚࿔ ♡ i'm currently working on web + mobile development ♡ ₊˚⊹</p>
+<p align="center">⋆˚࿔ currently working on web + mobile development ₊˚⊹</p>
